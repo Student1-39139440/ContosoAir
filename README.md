@@ -1,7 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
-
-# Microsoft.Github CI Demo
+[![Build Status](https://dev.azure.com/AppInnovation-Willrissa/GitHub%20Integration/_apis/build/status%2FStudent1-39139440.ContosoAir?branchName=master)](https://dev.azure.com/AppInnovation-Willrissa/GitHub%20Integration/_build/latest?definitionId=4&branchName=master)# Microsoft.Github CI Demo
 
 Demo website application for Contoso Air.  
 Runs a nodejs server (Express v4.16) that stores customer booked flights in a CosmosDb database.
